@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #000a11;
+    color: #dd5656;
+    color: #beb1f0;
+    color: #af9ff1;
+}
+
+body {
+    font-family: "poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    background-color: #000a11;
+    color: #dd5656;
+}
+.main {
+    margin-top: 54px;
+    padding: 50px;
+    margin-left: 50px;
+}
+.ozgecmis {
+    margin-top: 54px;
+}
+/* navbar baslangıc */
+#logo {
+    color: #beb1f0;
+}
+#logo:hover {
+    color: #9984ef;
+}
+.nav-link {
+    color: #beb1f0;
+}
+.nav-link:hover {
+    color: #9984ef;
+}
+
+#navbar1 {
+    background-color: #000a11;
+    opacity: 0.8;
+}
+.theme {
+    color: #db3232;
+    background-color: #000a11;
+}
+
+.hakkımda {
+    margin-top: 54px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    color: #f1f1f1;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h5 {
+    text-align: start;
+}
+
+span {
+    color: #f1f1f1;
+}
+
+.bilgi1 {
+    text-align: start;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-top: 60px;
+}
+
+.row {
+    margin-top: 50px;
+}
+
+.bildiklerim {
+    margin-top: 100px;
+}
+
+img {
+    height: 70px;
+    width: 70px;
+    margin-bottom: 15px;
+}
+.bilgi {
+    padding: 30px;
+    margin-bottom: 50px;
+}
+.cpp {
+    width: 150px;
+    height: 90px;
+    margin-bottom: 10px;
+}
+.php {
+    width: 100px;
+    height: 60px;
+}
+.baslık2 {
+    text-align: center;
+    margin-top: 100px;
+    justify-content: center;
+}
+
+.egitim-bilgileri {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.egitim-bilgileri h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.egitim-bilgileri ul {
+    list-style: none;
+    padding: 0;
+}
+
+.egitim-bilgileri li {
+    margin-bottom: 10px;
+}
+
+.egitim-bilgileri strong {
+    font-weight: bold;
+}
