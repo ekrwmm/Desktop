@@ -112,27 +112,17 @@ img {
     justify-content: center;
 }
 
-.egitim-bilgileri {
-    margin: 20px;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+.okul {
+    margin-top: 100px;
 }
 
-.egitim-bilgileri h2 {
-    text-align: center;
-    margin-bottom: 20px;
+.okul ul p {
+    margin-bottom: 65px;
 }
 
-.egitim-bilgileri ul {
-    list-style: none;
-    padding: 0;
+.okul h2 {
+    margin-bottom: 75px;
 }
-
-.egitim-bilgileri li {
-    margin-bottom: 10px;
-}
-
-.egitim-bilgileri strong {
-    font-weight: bold;
+.slider img {
+    height: 300px;
 }
