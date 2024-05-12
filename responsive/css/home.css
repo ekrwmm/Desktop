@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #000a11;
+    color: #beb1f0;
+}
+
+body {
+    font-family: "poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    background-color: #000a11;
+    color: #beb1f0;
+}
+.main {
+    margin-top: 54px;
+    padding: 50px;
+    margin-left: 50px;
+}
+.ozgecmis {
+    margin-top: 54px;
+}
+/* navbar baslangıc */
+#logo {
+    color: #beb1f0;
+}
+#logo:hover {
+    color: #9984ef;
+}
+.nav-link {
+    color: #beb1f0;
+}
+.nav-link:hover {
+    color: #9984ef;
+}
+
+#navbar1 {
+    background-color: #000a11;
+    opacity: 0.8;
+}
+.theme {
+    color: #9984ef;
+    background-color: #000a11;
+}
+/*  navbar bitis */
+.resim1 img {
+    width: 400px;
+    height: 400px;
+    text-align: start;
+    display: block;
+    border-radius: 50%;
+}
+.tanıtım {
+    text-align: start;
+    margin-bottom: 50px;
+}
+
+#navbar2 {
+    max-width: 1320px;
+}
+/* hobilerim kısmı */
+.cv {
+    padding: 10px 20px;
+    color: #000a11;
+    background-color: #beb1f0;
+    border-radius: 0;
+}
+.cv:hover {
+    background-color: #9984ef;
+    color: #000a11;
+    border-radius: 0;
+}
+
+.hobi {
+    padding: 10px 20px;
+    margin-bottom: 30px;
+    color: #000a11;
+    background-color: #beb1f0;
+    border-radius: 0;
+}
+
+.hobi:hover {
+    background-color: #9984ef;
+    color: #000a11;
+    border-radius: 0;
+}
+
+.hobilerim {
+    margin-left: 100px;
+}
+
+.cerceve {
+    display: flex;
+    align-items: center;
+    max-width: 1024px;
+    /* height: 480px; */
+    margin: auto;
+}
+.slide {
+    flex: 1;
+}
+.slide img {
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+}
