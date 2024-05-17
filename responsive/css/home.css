@@ -2,15 +2,18 @@
     margin: 0;
     padding: 0;
     background-color: #000a11;
-    color: #beb1f0;
+    color: #f1f1f1;
 }
 
+#navbar2 {
+    max-width: 1320px;
+}
 body {
     font-family: "poppins", sans-serif;
     font-weight: 600;
     font-style: normal;
     background-color: #000a11;
-    color: #beb1f0;
+    color: #f1f1f1;
 }
 .main {
     margin-top: 54px;
@@ -55,9 +58,6 @@ body {
     margin-bottom: 50px;
 }
 
-#navbar2 {
-    max-width: 1320px;
-}
 /* hobilerim kısmı */
 .cv {
     padding: 10px 20px;
